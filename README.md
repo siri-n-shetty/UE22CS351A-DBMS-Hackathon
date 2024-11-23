@@ -25,4 +25,4 @@ EcoVenture Investments requires a system to manage investor portfolios, asset al
 - Future Value Calculation
 - Transaction Isolation
 
-Feel free to use this repository as a reference for similar analyses or as a starting point for further exploration of diamond pricing datasets. If you have any questions or suggestions, please don't hesitate to reach out.
+Feel free to use this repository as a reference for similar analyses or as a starting point for further exploration. If you have any questions or suggestions, please don't hesitate to reach out.
